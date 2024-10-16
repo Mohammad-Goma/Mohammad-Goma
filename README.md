@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammad-Goma
-- 👀 I’m interested in C# And Java
-- 🌱 I’m currently learning Web 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C# And Java , Python
+- 🌱 I’m currently learning Gis Developer 
+- 💞️ I’m looking to collaborate on Gis Developer
 - 📫 How to reach me https://www.facebook.com/Mohammad.Reda.Alshamy
 
 <!---
