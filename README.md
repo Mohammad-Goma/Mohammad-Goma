@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohammad-Goma
+- 👋 Hi, I’m @Mohammad-Gomaa
 - 👀 I’m interested in C# 
 
 <!---
